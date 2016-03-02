@@ -1,4 +1,5 @@
-public with sharing class ApexClass3 {
+public with sharing class ApexClass3 { //new change
+										//another change
 	
 	public static Double myValue;       //Class Member variable
 public static String myString;      //Class Member variable
